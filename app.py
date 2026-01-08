@@ -136,7 +136,7 @@ def handle_active_hunt():
 
             if submit_button:
                 if user_answer.strip().lower() == correct_answer.lower():
-                    
+                    st.success(" ")
                     st.session_state.current_question_index += 1
                     st.rerun()
                 else:
