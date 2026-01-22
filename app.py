@@ -20,12 +20,14 @@ st.set_page_config(
 
 # --- Questions and Answers ---
 QUESTIONS = {
-    1: ("This is the first question. What is the answer?", "answer1"),
-    2: ("This is the second question. What is the answer?", "answer2"),
-    3: ("This is the third question. What is the answer?", "answer3"),
-    4: ("This is the fourth question. What is the answer?", "answer4"),
-    5: ("This is the fifth question. What is the answer?", "answer5"),
-    6: ("This is the sixth question. What is the answer?", "answer6"),
+    1: ("fuel for brain ", "2504"),
+    2: ("Uniform pehenta, awaaz kam, Par zimmedaari hoti hai full-time hardam?", "2703"),
+    3: ("im loved by students,busiest during exams and breaks ?", "3009"),
+    4: ("I stand in stone, a silent watchfull guide ?", "0702"),
+    5: ("I have tail but no body, i help you to point and drag ?", "0206"),
+    6: ("The room is on the second 2nd floor, double the floor number and add 200 ", "2601"),
+    7: ("i'm full of pins? where am i??", "1209"),
+    8: ("i take you to clouds or basement floors, what am i??", "2105"),
 }
 
 
