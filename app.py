@@ -93,6 +93,7 @@ def handle_start_page():
             st.session_state.start_time = time.time()
             st.session_state.current_question_index = 0 # Start with the first question
             st.rerun()
+        st.write("each team gets  3 guess helpline for clues call this number for the clues : +91 90046 95581 ")
 
 
 def handle_active_hunt():
